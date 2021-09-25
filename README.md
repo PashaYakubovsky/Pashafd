@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pashafd&left_color=green&right_color=red)
 
-# Hi, I'm my name is Pasha Yakubovsky & I🖤code
+# Hi, I'm Pasha Yakubovsky & I🖤code
 
 ```ts
 interface Ipasha {
