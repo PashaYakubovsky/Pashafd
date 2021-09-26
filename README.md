@@ -1,15 +1,7 @@
-# Hi, I'm Pasha Yakubovsky & I🖤code
+# Hi, I'm Pasha Yakubovsky
 
 ```ts
-interface Ipasha {
-  code: string[];
-  tools: string[];
-  createdAt: number;
-  display: string;
-}
-
-
-const pasha:Ipasha = {
+const pasha = {
   code: ["TypeScript", "JavaScript", "HTML", "CSS"],
   tools: ["Reactjs", "Redux", "GSAP", "Firebase", "Sass","Jest(basic)"],
   createdAt: 1998,
