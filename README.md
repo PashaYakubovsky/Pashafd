@@ -3,7 +3,7 @@
 ```ts
 const pasha = {
   code: ["TypeScript", "JavaScript", "HTML", "CSS"],
-  tools: ["Reactjs", "Redux", "GSAP", "Firebase", "Sass","Jest(basic)"],
+  tools: ["Reactjs", "Redux", "GSAP", "Bootstrap", "Sass"],
   createdAt: 1998,
   display: "boy",
 }
